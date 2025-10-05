@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Eight AI Privacy Policy</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;margin:2em;background:#fff;color:#333}
+    h2{color:#0057b8}
+  </style>
+</head>
+<body>
+  <h1>Eight AI Privacy Policy</h1>
+  <p><strong>Effective date:</strong>5 Oct 2025</p>
+
+  <h2>1. Information we collect</h2>
+  <p>On first launch we ask for:</p>
+  <ul>
+    <li>Age</li>
+    <li>Height</li>
+    <li>Weight</li>
+    <li>Training</li>
+  </ul>
+  <p>These data are used solely to calculate daily calorie and macro-nutrient estimates inside the app. <strong>We do NOT send this information to any server;</strong> everything stays on your device.</p>
+
+  <h2>2. Third-party services</h2>
+  <p>We use <strong>Google Firebase Analytics</strong> to collect anonymous usage statistics (screen opens, button taps). This service may collect your IP address, device identifiers and coarse location. Firebase data are governed by <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google’s Privacy Policy</a>.</p>
+
+  <h2>3. Cookies & analytics</h2>
+  <p>Our privacy page itself does not use cookies. The app does not use web cookies.</p>
+
+  <h2>4. Data retention & deletion</h2>
+  <p>Body-metric data you enter are stored locally and removed when you uninstall the app. Firebase Analytics data are kept by Google for 60 days.</p>
+
+  <h2>5. Your rights</h2>
+  <p>You may clear app data at any time via Android Settings → Apps → Eight AI → Storage → Clear Data.</p>
+
+  <h2>6. Contact</h2>
+  <p>If you have questions about this policy, e-mail us at <a href="mailto:warming144000@gmail.com">warming144000@gmail.com</a>.</p>
+
+  <p><em>This policy is hosted with GitHub Pages and can change in the future. Continued use of the app after any change means you accept the revised policy.</em></p>
+</body>
+</html>
